@@ -1,0 +1,131 @@
+﻿country_decisions = {
+		
+	# Form Kemet
+	form_kumat = {
+		
+		potential = {
+			#OR = {
+			#	country_culture_group = kemetic
+			#	country_culture_group = libyan
+			#	tag = XNA
+			#}
+			OR = {
+				tag = XNA
+				religion = kemetic_pantheon
+			}
+			#is_tribal = yes
+			NOT = {
+				tag = EAJ
+			}
+			NOT = {
+				is_endgame_tag_trigger = yes
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 4565
+					province_id = 1331
+					province_id = 2261
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = kumat_must_not_exist
+				NOT = {
+					any_country = {
+						tag = EAJ
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns = 4565
+			owns = 1331
+			owns = 2261
+		}
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			if = {
+				limit = {
+					OR = {
+						country_culture_group = kemetic
+						country_culture_group = libyan
+					}
+				}
+				change_country_name = "Kumat1_Name"
+				change_country_flag = Kumat_flag
+			}
+			if = {
+				limit = {
+					country_culture_group = nubian
+				}
+				change_country_name = "Kumat2_Name"
+				change_country_flag = Napata_flag
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = imperium
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						OR = {
+							country_culture_group = kemetic
+							country_culture_group = libyan
+						}
+					}
+					change_country_adjective = "Kumat1_ADJ"
+					change_country_color =  "kumat1_color"
+				}
+				if = {
+					limit = {
+						country_culture_group = nubian
+					}
+					change_country_adjective = "Kumat2_ADJ"
+					change_country_color =  "kumat2_color"
+				}
+				change_country_tag = EAJ
+			}
+			if = {
+				limit = {
+					NOT = {
+						capital_scope = {
+							province_id = 2261
+						}
+					}
+				}
+				set_capital = 2261
+				hidden_effect = {
+					p:2261.state = {
+						set_state_capital = 2261
+					}
+				}
+			}
+			#p:2261 = {
+			#	if = {
+			#		limit = { has_city_status = no }
+			#		set_city_status = city
+			#	}
+			#}
+			p:2261 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_2_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	
+}
