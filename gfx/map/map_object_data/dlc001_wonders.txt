@@ -1,0 +1,40 @@
+﻿object={
+	name="wonder_argead_palace"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="monument_layer"
+	pdxmesh="wonder_argead_palace_mesh"
+	count=1
+	transform="2395.553711 0.000000 2427.790039 -0.000000 0.049418 -0.000000 0.998778 0.602287 0.602287 0.602287
+"}
+object={
+	name="wonder_ay_khanum"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="monument_layer"
+	pdxmesh="wonder_ay_khanum_mesh"
+	count=1
+	transform="5527.252441 0.000000 3284.145752 -0.000000 -0.170609 -0.000000 0.985339 0.818130 0.818130 0.818130
+"}
+object={
+	name="wonder_pergamon_acropolis"
+	clamp_to_water_level=yes
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	pdxmesh="wonder_pergamon_acropolis_mesh"
+	count=1
+	transform="2746.610596 0.000000 2355.858643 -0.000000 0.225076 -0.000000 0.974342 0.907840 0.907840 0.907840
+"}
+object={
+	name="wonder_rhodes_acropolis"
+	clamp_to_water_level=yes
+	render_under_water=no
+	generated_content=no
+	layer="monument_layer"
+	pdxmesh="wonder_rhodes_acropolis_mesh"
+	count=1
+	transform="2842.100342 0.000000 2115.034668 -0.000000 0.372173 -0.000000 0.928164 0.509466 0.509466 0.509466
+"}
