@@ -1,7 +1,7 @@
 ﻿8100={ #Name
     terrain=""
-    culture="dongou"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="incense"
     civilization_value=30
     barbarian_power=0
@@ -10,8 +10,8 @@
 
 8162={ #Name
     terrain=""
-    culture="dongou"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="porcelain"
     civilization_value=30
     barbarian_power=0
@@ -20,8 +20,8 @@
 
 8164={ #Name
     terrain=""
-    culture="dongou"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="amber"
     civilization_value=30
     barbarian_power=0
@@ -30,8 +30,8 @@
 
 8170={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="silk"
     civilization_value=20
     barbarian_power=0
@@ -40,8 +40,8 @@
 
 8172={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="grain"
     civilization_value=20
     barbarian_power=0
@@ -50,8 +50,8 @@
 
 8174={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="leather"
     civilization_value=20
     barbarian_power=0
@@ -60,8 +60,8 @@
 
 8176={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="iron"
     civilization_value=20
     barbarian_power=0
@@ -70,8 +70,8 @@
 
 8179={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="silk"
     civilization_value=20
     barbarian_power=0
@@ -80,8 +80,8 @@
 
 8180={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="stone"
     civilization_value=20
     barbarian_power=0
@@ -90,8 +90,8 @@
 
 8181={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="stone"
     civilization_value=20
     barbarian_power=0
@@ -100,8 +100,8 @@
 
 8188={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="earthware"
     civilization_value=20
     barbarian_power=0
@@ -110,8 +110,8 @@
 
 8189={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="stone"
     civilization_value=20
     barbarian_power=0
@@ -120,8 +120,8 @@
 
 8192={ #Name
     terrain=""
-    culture="minyue"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="leather"
     civilization_value=20
     barbarian_power=0
@@ -130,8 +130,8 @@
 
 8386={ #Name
     terrain=""
-    culture="cangwu"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="cattle"
     civilization_value=15
     barbarian_power=0
@@ -140,8 +140,8 @@
 
 8397={ #Name
     terrain=""
-    culture="zhuang"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="silk"
     civilization_value=10
     barbarian_power=0
@@ -150,8 +150,8 @@
 
 8404={ #Name
     terrain=""
-    culture="yelang"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="grain"
     civilization_value=15
     barbarian_power=0
@@ -160,8 +160,8 @@
 
 8429={ #Name
     terrain=""
-    culture="yelang"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="jade"
     civilization_value=15
     barbarian_power=0
@@ -170,8 +170,8 @@
 
 8452={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="cloth"
     civilization_value=40
     barbarian_power=0
@@ -180,8 +180,8 @@
 
 8454={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="porcelain"
     civilization_value=40
     barbarian_power=0
@@ -190,8 +190,8 @@
 
 8456={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="wine"
     civilization_value=40
     barbarian_power=0
@@ -200,8 +200,8 @@
 
 8459={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="iron"
     civilization_value=40
     barbarian_power=0
@@ -210,8 +210,8 @@
 
 8462={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="base_metals"
     civilization_value=40
     barbarian_power=0
@@ -220,8 +220,8 @@
 
 8467={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="grain"
     civilization_value=40
     barbarian_power=0
@@ -230,8 +230,8 @@
 
 8468={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="vegetables"
     civilization_value=40
     barbarian_power=0
@@ -240,8 +240,8 @@
 
 8469={ #Name
     terrain=""
-    culture="chu"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="cloth"
     civilization_value=40
     barbarian_power=0
@@ -250,8 +250,8 @@
 
 8568={ #Name
     terrain=""
-    culture="zhao"
-    religion="hundred_schools"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="horses"
     civilization_value=30
     barbarian_power=0
@@ -260,8 +260,8 @@
 
 9186={ #
 	terrain=""
-	culture="gyeongsang"
-	religion="chinese_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -270,8 +270,8 @@
 
 9191={ #Name
     terrain=""
-    culture="gyeongsang"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods="stone"
     civilization_value=10
     barbarian_power=0
@@ -280,8 +280,8 @@
 
 9196={ #
 	terrain=""
-	culture="hwanghae"
-	religion="chinese_religion"
+	culture="wvenedi"
+	religion="slavic_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -290,8 +290,8 @@
 
 9357={ #Name
     terrain=""
-    culture="ordos"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods=""
     civilization_value=30
     barbarian_power=0
@@ -300,8 +300,8 @@
 
 9362={ #Name
     terrain=""
-    culture="ordos"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods=""
     civilization_value=30
     barbarian_power=0
@@ -310,8 +310,8 @@
 
 9363={ #Name
     terrain=""
-    culture="ordos"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods=""
     civilization_value=30
     barbarian_power=0
@@ -320,8 +320,8 @@
 
 9367={ #Name
     terrain=""
-    culture="ordos"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods=""
     civilization_value=30
     barbarian_power=0
@@ -330,8 +330,8 @@
 
 9368={ #Name
     terrain=""
-    culture="ordos"
-    religion="chinese_religion"
+    culture="wvenedi"
+    religion="slavic_pantheon"
     trade_goods=""
     civilization_value=30
     barbarian_power=0

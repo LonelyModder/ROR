@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phoenician"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -14,9 +14,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phoenician"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -168,9 +168,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -179,9 +179,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sindhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -410,9 +410,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="syracusan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -421,9 +421,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="syracusan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -432,9 +432,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bruttian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -443,9 +443,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bruttian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -454,9 +454,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lucanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -465,9 +465,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -476,9 +476,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -487,9 +487,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -498,9 +498,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -509,9 +509,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -520,9 +520,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -531,9 +531,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -542,9 +542,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -553,9 +553,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -564,9 +564,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="umbrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -575,9 +575,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="umbrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -586,9 +586,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="etruscan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -597,9 +597,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="umbrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -608,9 +608,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="umbrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -619,9 +619,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="etruscan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -641,9 +641,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -652,9 +652,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="salluvian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -663,9 +663,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -674,9 +674,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="salluvian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -685,9 +685,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -696,9 +696,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -707,9 +707,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -718,9 +718,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -729,9 +729,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -740,9 +740,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -751,9 +751,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="catari"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -762,9 +762,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="letobician"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -773,9 +773,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="letobician"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -784,9 +784,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="letobician"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -795,9 +795,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carnian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -806,9 +806,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carnian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -817,9 +817,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="noric"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -828,9 +828,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="noric"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -839,9 +839,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -850,9 +850,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -861,9 +861,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -872,9 +872,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -883,9 +883,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -894,9 +894,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -905,9 +905,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -916,9 +916,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="arverni"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -927,9 +927,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="arverni"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -938,9 +938,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="salluvian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -949,9 +949,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="volcae"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -960,9 +960,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="volcae"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -971,9 +971,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ilergetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -982,9 +982,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitani"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -993,9 +993,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ilergetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1004,9 +1004,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="corsian"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1015,9 +1015,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nuragic"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1026,9 +1026,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="peloponnesian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1037,9 +1037,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="peloponnesian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1048,9 +1048,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="peloponnesian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1059,9 +1059,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="achaean"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1070,9 +1070,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="peloponnesian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1081,9 +1081,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="achaean"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1092,9 +1092,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="athenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1103,9 +1103,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="boeotian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1114,9 +1114,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="boeotian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1125,9 +1125,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aetolian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1136,9 +1136,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thessalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1147,9 +1147,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="epirote"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1158,9 +1158,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="epirote"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1169,9 +1169,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thessalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1180,9 +1180,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="epirote"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1191,9 +1191,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thessalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1202,9 +1202,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1213,9 +1213,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1224,9 +1224,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1235,9 +1235,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1246,9 +1246,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1257,9 +1257,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1268,9 +1268,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1279,9 +1279,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1290,9 +1290,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1301,9 +1301,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1312,9 +1312,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taulantian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1323,9 +1323,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1334,9 +1334,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1345,9 +1345,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1356,9 +1356,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="liburnian_culture"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1367,9 +1367,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1378,9 +1378,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1389,9 +1389,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1400,9 +1400,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1411,9 +1411,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1422,9 +1422,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1433,9 +1433,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="illyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1444,9 +1444,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="triballoi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1455,9 +1455,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="triballoi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1466,9 +1466,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dardanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1477,9 +1477,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1488,9 +1488,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1499,9 +1499,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1510,9 +1510,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1521,9 +1521,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1532,9 +1532,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1543,9 +1543,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1554,9 +1554,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1565,9 +1565,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="triballoi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1576,9 +1576,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="moesi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1587,9 +1587,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="moesi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1598,9 +1598,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="moesi"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1609,9 +1609,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1620,9 +1620,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1631,9 +1631,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1642,9 +1642,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1653,9 +1653,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="getian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1664,9 +1664,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1675,9 +1675,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1686,9 +1686,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="letobician"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1697,9 +1697,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="catari"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1708,9 +1708,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="catari"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1719,9 +1719,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1730,9 +1730,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1741,9 +1741,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1752,9 +1752,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1763,9 +1763,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1774,9 +1774,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1785,9 +1785,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rhaetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1796,9 +1796,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="noric"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1807,9 +1807,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carnian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1818,9 +1818,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1829,9 +1829,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1840,9 +1840,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lepontic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1851,9 +1851,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ligurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1862,9 +1862,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="indiketian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1873,9 +1873,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aquitani"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1884,9 +1884,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1895,9 +1895,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1906,9 +1906,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1917,9 +1917,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1928,9 +1928,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1939,9 +1939,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="helvetian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1950,9 +1950,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1961,9 +1961,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1972,9 +1972,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1983,9 +1983,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -1994,9 +1994,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2005,9 +2005,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2016,9 +2016,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="boian"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2027,9 +2027,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="siculian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2038,9 +2038,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="syracusan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2049,9 +2049,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="siculian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2060,9 +2060,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="siculian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2071,9 +2071,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2082,9 +2082,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2093,9 +2093,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2104,9 +2104,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2115,9 +2115,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2126,9 +2126,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2137,9 +2137,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2148,9 +2148,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2159,9 +2159,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2170,9 +2170,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cabalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2181,9 +2181,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="milyadian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2192,9 +2192,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="milyadian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2203,9 +2203,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2214,9 +2214,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="isaurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2225,9 +2225,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lalasian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2236,9 +2236,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="isaurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2247,9 +2247,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2258,9 +2258,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2269,9 +2269,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2280,9 +2280,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2291,9 +2291,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2302,9 +2302,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2313,9 +2313,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2324,9 +2324,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2335,9 +2335,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2346,9 +2346,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2357,9 +2357,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2368,9 +2368,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2379,9 +2379,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2390,9 +2390,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2401,9 +2401,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2412,9 +2412,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="celtiberian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2423,9 +2423,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vaccaeian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2434,9 +2434,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="oretanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2445,9 +2445,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="contestanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2456,9 +2456,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastetanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2467,9 +2467,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastetanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2478,9 +2478,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lusitanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2489,9 +2489,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2500,9 +2500,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2511,9 +2511,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2522,9 +2522,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2533,9 +2533,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2544,9 +2544,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2555,9 +2555,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2566,9 +2566,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2577,9 +2577,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2588,9 +2588,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2599,9 +2599,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2610,9 +2610,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2621,9 +2621,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2632,9 +2632,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2643,9 +2643,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="colchian"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2654,9 +2654,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2665,9 +2665,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2676,9 +2676,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2687,9 +2687,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2698,9 +2698,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2709,9 +2709,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="albanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2720,9 +2720,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2731,9 +2731,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2742,9 +2742,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2753,9 +2753,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2764,9 +2764,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2775,9 +2775,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2786,9 +2786,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2797,9 +2797,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2808,9 +2808,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2819,9 +2819,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2830,9 +2830,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2841,9 +2841,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2852,9 +2852,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2863,9 +2863,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="assyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2874,9 +2874,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2885,9 +2885,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2896,9 +2896,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aramaic"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2907,9 +2907,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2918,9 +2918,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2929,9 +2929,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2940,9 +2940,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2951,9 +2951,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2962,9 +2962,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2973,9 +2973,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="mesopotamian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2984,9 +2984,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="mesopotamian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -2995,9 +2995,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="mesopotamian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3006,9 +3006,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parthian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3017,9 +3017,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parthian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3028,9 +3028,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3039,9 +3039,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amardian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3050,9 +3050,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3061,9 +3061,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="uxian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3072,9 +3072,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="uxian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3083,9 +3083,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="uxian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3094,9 +3094,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3105,9 +3105,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pasargadi"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3116,9 +3116,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="utian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3127,9 +3127,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="utian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3138,9 +3138,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3149,9 +3149,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3160,9 +3160,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amardian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3171,9 +3171,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="amardian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3182,9 +3182,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3193,9 +3193,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3204,9 +3204,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3215,9 +3215,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3226,9 +3226,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3237,9 +3237,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3248,9 +3248,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parthian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3259,9 +3259,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3270,9 +3270,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3281,9 +3281,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3292,9 +3292,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3303,9 +3303,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="margian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3314,9 +3314,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3325,9 +3325,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3336,9 +3336,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3347,9 +3347,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3358,9 +3358,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sogdian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3369,9 +3369,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="margian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3380,9 +3380,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sogdian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3391,9 +3391,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sogdian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3402,9 +3402,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sogdian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3413,9 +3413,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3424,9 +3424,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3435,9 +3435,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3446,9 +3446,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3457,9 +3457,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3468,9 +3468,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3479,9 +3479,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3490,9 +3490,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tayuan"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3501,9 +3501,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tayuan"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3512,9 +3512,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3523,9 +3523,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taexalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3534,9 +3534,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="caledonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3545,9 +3545,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3556,9 +3556,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="blemmyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3567,9 +3567,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3578,9 +3578,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3589,9 +3589,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thamudi"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3600,9 +3600,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thamudi"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3611,9 +3611,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thamudi"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3622,9 +3622,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3633,9 +3633,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="middle_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3644,9 +3644,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3655,9 +3655,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3666,9 +3666,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="hadhrami"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3677,9 +3677,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3688,9 +3688,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="irminonic"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3699,9 +3699,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="harpii"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3710,9 +3710,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="minaean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3721,9 +3721,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3732,9 +3732,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3743,9 +3743,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="babylonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="mesopotamian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3754,9 +3754,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3765,9 +3765,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3776,9 +3776,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3787,9 +3787,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3798,9 +3798,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kannadan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3809,9 +3809,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kannadan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3820,9 +3820,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3831,9 +3831,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3842,9 +3842,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3853,9 +3853,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tamil"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3864,9 +3864,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lankan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3875,9 +3875,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="maharashtran"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3886,9 +3886,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugu"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3897,9 +3897,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugu"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3908,9 +3908,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="telugu"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3919,9 +3919,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3930,9 +3930,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3941,9 +3941,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3952,9 +3952,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="siraci"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3963,9 +3963,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="colchian"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3974,9 +3974,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3985,9 +3985,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ibero"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -3996,9 +3996,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4007,9 +4007,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="albanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="caucasian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4018,9 +4018,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4029,9 +4029,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4040,9 +4040,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4051,9 +4051,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4062,9 +4062,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4073,9 +4073,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4084,9 +4084,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4095,9 +4095,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aksumite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4106,9 +4106,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aksumite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4117,9 +4117,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aksumite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4128,9 +4128,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4139,9 +4139,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4150,9 +4150,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4161,9 +4161,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4172,9 +4172,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4183,9 +4183,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="vidharban"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4194,9 +4194,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4205,9 +4205,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4216,9 +4216,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4227,9 +4227,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parecanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4238,9 +4238,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4249,9 +4249,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4260,9 +4260,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4271,9 +4271,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4282,9 +4282,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="blemmyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4293,9 +4293,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="blemmyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4304,9 +4304,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="blemmyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4315,9 +4315,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4326,9 +4326,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avanti"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4337,9 +4337,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avanti"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4348,9 +4348,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="shauraseni"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4359,9 +4359,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4370,9 +4370,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4381,9 +4381,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="shauraseni"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4392,9 +4392,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4403,9 +4403,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="shauraseni"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4414,9 +4414,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4425,9 +4425,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4436,9 +4436,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4447,9 +4447,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4458,9 +4458,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4469,9 +4469,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4480,9 +4480,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4491,9 +4491,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bangli"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4502,9 +4502,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4513,9 +4513,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4524,9 +4524,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4535,9 +4535,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4546,9 +4546,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4557,9 +4557,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4568,9 +4568,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4579,9 +4579,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4590,9 +4590,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods="silk"
 }
@@ -4601,9 +4601,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rugian"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4612,9 +4612,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4623,9 +4623,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bangli"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4634,9 +4634,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4645,9 +4645,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parthian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4656,9 +4656,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parthian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4667,9 +4667,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pasargadi"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4678,9 +4678,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4689,9 +4689,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -4700,9 +4700,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -4711,9 +4711,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -4722,9 +4722,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="assyrian"
+	culture="wvenedi"
 	province_rank=""
-	religion="mesopotamian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -4733,9 +4733,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -4744,9 +4744,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods=""
 }
@@ -4755,9 +4755,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="median"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4766,9 +4766,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4777,9 +4777,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="shauraseni"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods=""
 }
@@ -4788,9 +4788,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="shauraseni"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods=""
 }
@@ -4821,9 +4821,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4832,9 +4832,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4843,9 +4843,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4854,9 +4854,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4865,9 +4865,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="hadhrami"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4876,9 +4876,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4887,9 +4887,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="minaean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4898,9 +4898,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thamudi"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4909,9 +4909,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4920,9 +4920,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4931,9 +4931,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="puntic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4942,9 +4942,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aksumite"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4953,9 +4953,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4964,9 +4964,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="meroitic"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4975,9 +4975,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4986,9 +4986,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="garamantic"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -4997,9 +4997,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5008,9 +5008,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5019,9 +5019,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5030,9 +5030,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5041,9 +5041,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="suiones"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5052,9 +5052,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="rugian"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5063,9 +5063,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5074,9 +5074,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5085,9 +5085,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5096,9 +5096,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tsang"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5107,9 +5107,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tsang"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5118,9 +5118,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="yarlung"
+	culture="wvenedi"
 	province_rank=""
-	religion="bon_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5129,9 +5129,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5140,9 +5140,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="zhangzhung"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5151,9 +5151,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5162,9 +5162,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="saka"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5173,9 +5173,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bangli"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5184,9 +5184,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5195,9 +5195,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5206,9 +5206,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5217,9 +5217,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kharesmian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5228,9 +5228,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5239,9 +5239,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sarmatian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5250,9 +5250,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5261,9 +5261,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aestian"
+	culture="wvenedi"
 	province_rank=""
-	religion="matrist_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5272,9 +5272,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aestian"
+	culture="wvenedi"
 	province_rank=""
-	religion="matrist_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5283,9 +5283,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastarnae"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5294,9 +5294,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastarnae"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5305,9 +5305,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="suiones"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5316,9 +5316,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="brigantic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5327,9 +5327,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="brigantic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5338,9 +5338,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="brigantic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5349,9 +5349,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="brigantic"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5360,9 +5360,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sarmatian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5393,9 +5393,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5404,9 +5404,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5415,9 +5415,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5426,9 +5426,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5437,9 +5437,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5448,9 +5448,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massaesylian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5459,9 +5459,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5470,9 +5470,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5481,9 +5481,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5492,9 +5492,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5503,9 +5503,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5514,9 +5514,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5525,9 +5525,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5536,9 +5536,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="middle_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5547,9 +5547,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dacian"
+	culture="wvenedi"
 	province_rank=""
-	religion="shamanism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5558,9 +5558,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="celtic_pannonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="druidism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5569,9 +5569,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5580,9 +5580,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5591,9 +5591,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="thamudi"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5602,9 +5602,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="taif"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5613,9 +5613,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="makan"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5624,9 +5624,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5635,9 +5635,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5646,9 +5646,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5657,9 +5657,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5668,9 +5668,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5679,9 +5679,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5690,9 +5690,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5701,9 +5701,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avanti"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5712,9 +5712,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avanti"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5723,9 +5723,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="avanti"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5734,9 +5734,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parecanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5745,9 +5745,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5756,9 +5756,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="parecanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5767,9 +5767,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5778,9 +5778,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -5800,9 +5800,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7527,9 +7527,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7538,9 +7538,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7549,9 +7549,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7560,9 +7560,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7571,9 +7571,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7582,9 +7582,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="socossian"
+	culture="wvenedi"
 	province_rank=""
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7593,9 +7593,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7604,9 +7604,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="upper_egyptian"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7615,9 +7615,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7626,9 +7626,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="libyan"
+	culture="wvenedi"
 	province_rank=""
-	religion="egyptian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7637,9 +7637,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kharesmian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7648,9 +7648,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7659,9 +7659,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="tocharian"
+	culture="wvenedi"
 	province_rank=""
-	religion="eastern_animism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7670,9 +7670,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7681,9 +7681,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7692,9 +7692,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7703,9 +7703,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sindhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7714,9 +7714,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sindhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7725,9 +7725,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sindhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7736,9 +7736,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kalingan"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7747,9 +7747,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="atavi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7758,9 +7758,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7769,9 +7769,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7780,9 +7780,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7791,9 +7791,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7802,9 +7802,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7813,9 +7813,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dardic"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7824,9 +7824,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="dardic"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7835,9 +7835,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gandhari"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7846,9 +7846,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sarmatian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7857,9 +7857,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bangli"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7868,9 +7868,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7879,9 +7879,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="scythian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7890,9 +7890,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastarnae"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7901,9 +7901,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bastarnae"
+	culture="wvenedi"
 	province_rank=""
-	religion="germanic_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7912,9 +7912,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sarmatian"
+	culture="wvenedi"
 	province_rank=""
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7923,9 +7923,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7934,9 +7934,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="nabatean"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7945,9 +7945,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -7956,9 +7956,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="babylonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8011,9 +8011,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="samnite"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8022,9 +8022,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="peloponnesian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8033,9 +8033,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lycaonian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8044,9 +8044,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="qedarite"
+	culture="wvenedi"
 	province_rank=""
-	religion="arabian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8055,9 +8055,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8066,9 +8066,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8077,9 +8077,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8088,9 +8088,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8099,9 +8099,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8110,9 +8110,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8121,9 +8121,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8132,9 +8132,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8143,9 +8143,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pisidian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8154,9 +8154,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8165,9 +8165,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8176,9 +8176,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8187,9 +8187,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8198,9 +8198,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bangli"
+	culture="wvenedi"
 	province_rank=""
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8209,9 +8209,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="boeotian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8220,9 +8220,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="athenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8231,9 +8231,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="aetolian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8396,9 +8396,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="syracusan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8407,9 +8407,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="achaean"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8418,9 +8418,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="euboean"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8429,9 +8429,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8440,9 +8440,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8451,9 +8451,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8462,9 +8462,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8473,9 +8473,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8484,9 +8484,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8495,9 +8495,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8506,9 +8506,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8517,9 +8517,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8528,9 +8528,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8539,9 +8539,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8550,9 +8550,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8561,9 +8561,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8572,9 +8572,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8583,9 +8583,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8594,9 +8594,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8605,9 +8605,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8616,9 +8616,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8627,9 +8627,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lydian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8638,9 +8638,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8649,9 +8649,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8660,9 +8660,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8671,9 +8671,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8682,9 +8682,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="ionian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8693,9 +8693,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8704,9 +8704,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lycian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8715,9 +8715,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cabalian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8726,9 +8726,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="milyadian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8737,9 +8737,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lycian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8748,9 +8748,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lycian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8759,9 +8759,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pisidian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8770,9 +8770,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="lycian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8781,9 +8781,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pisidian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8792,9 +8792,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="pisidian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8803,9 +8803,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="oroandian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8814,9 +8814,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="isaurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8825,9 +8825,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="oroandian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8836,9 +8836,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="isaurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8847,9 +8847,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="isaurian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8858,9 +8858,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8869,9 +8869,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8880,9 +8880,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8891,9 +8891,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8902,9 +8902,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8913,9 +8913,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8924,9 +8924,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8935,9 +8935,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8946,9 +8946,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8957,9 +8957,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8968,9 +8968,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8979,9 +8979,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -8990,9 +8990,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9001,9 +9001,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9012,9 +9012,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9023,9 +9023,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phoenician"
+	culture="wvenedi"
 	province_rank=""
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9034,9 +9034,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cypriot"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9045,9 +9045,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9056,9 +9056,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9067,9 +9067,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9078,9 +9078,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9089,9 +9089,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9100,9 +9100,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9111,9 +9111,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9122,9 +9122,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9133,9 +9133,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9144,9 +9144,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9155,9 +9155,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="armenian"
+	culture="wvenedi"
 	province_rank=""
-	religion="armenian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9166,9 +9166,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9177,9 +9177,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9188,9 +9188,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cretan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9199,9 +9199,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cretan"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9265,9 +9265,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="cypriot"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9276,9 +9276,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9287,9 +9287,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9298,9 +9298,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="mysian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9309,9 +9309,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9320,9 +9320,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9331,9 +9331,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }
@@ -9342,9 +9342,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank=""
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="impassable_terrain"
 	trade_goods=""
 }

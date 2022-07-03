@@ -3,16 +3,16 @@
 {
 	barbarian_power=0
 	civilization_value=27
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -21,8 +21,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -31,7 +31,7 @@
 	freemen=
 	{
 		amount=2
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -44,7 +44,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 }
 #Kandara
@@ -52,9 +52,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -75,9 +75,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	freemen=
@@ -98,9 +98,9 @@
 {
 	barbarian_power=0
 	civilization_value=20
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -118,7 +118,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 }
 #Asklepios
@@ -126,9 +126,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	freemen=
@@ -149,9 +149,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	citizen=
@@ -165,7 +165,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -174,7 +174,7 @@
 	tribesmen=
 	{
 		amount=3
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 }
 #Herakleia Pontike
@@ -182,23 +182,23 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_pontic"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="salt"
 	nobles=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -211,12 +211,12 @@
 	freemen=
 	{
 		amount=1
-		culture="athenian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -225,7 +225,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 }
 #Sesamos
@@ -233,10 +233,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_pontic"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	citizen=
@@ -254,17 +254,17 @@
 	slaves=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Tieion
@@ -272,9 +272,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="greek_pontic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="fish"
 	citizen=
@@ -292,7 +292,7 @@
 	tribesmen=
 	{
 		amount=3
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 }
 #Dadybra
@@ -300,9 +300,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -316,7 +316,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -328,9 +328,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -344,8 +344,8 @@
 	freemen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -358,8 +358,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Parthenia
@@ -367,9 +367,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	freemen=
@@ -379,7 +379,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -395,9 +395,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -407,7 +407,7 @@
 	freemen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -420,7 +420,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Timonion
@@ -428,9 +428,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	freemen=
@@ -448,8 +448,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Krateia
@@ -457,9 +457,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	freemen=
@@ -477,8 +477,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Zeita
@@ -486,9 +486,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -498,7 +498,7 @@
 	freemen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -511,13 +511,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Tobata
@@ -525,9 +525,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	freemen=
@@ -541,8 +541,8 @@
 	slaves=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -551,8 +551,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Salon
@@ -560,9 +560,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	citizen=
@@ -584,7 +584,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Peion
@@ -592,9 +592,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -608,7 +608,7 @@
 	slaves=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -617,7 +617,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Legna
@@ -625,9 +625,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -645,14 +645,14 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Gordioukome
@@ -660,9 +660,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	citizen=
@@ -687,9 +687,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="grain"
 	freemen=
@@ -710,9 +710,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	freemen=
@@ -730,8 +730,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kieros
@@ -739,9 +739,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	freemen=
@@ -751,7 +751,7 @@
 	freemen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -764,7 +764,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Kalpe
@@ -772,10 +772,10 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bithynian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	freemen=
@@ -785,7 +785,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -794,7 +794,7 @@
 	slaves=
 	{
 		amount=1
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -803,7 +803,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 }
 #Tarsos Bithynias
@@ -811,9 +811,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	freemen=
@@ -831,7 +831,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 }
 #Embolos
@@ -839,9 +839,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -851,7 +851,7 @@
 	freemen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -864,7 +864,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Dia
@@ -872,20 +872,20 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	citizen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=2
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -894,12 +894,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="mariandynian"
+		culture="wvenedi"
 	}
 }
 #Artanes
@@ -907,9 +907,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
@@ -934,10 +934,10 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="greek_thracian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	nobles=
@@ -955,7 +955,7 @@
 	freemen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -964,7 +964,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Rhebas
@@ -972,10 +972,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="greek_thracian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="earthware"
 	citizen=
@@ -989,7 +989,7 @@
 	freemen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -998,12 +998,12 @@
 	slaves=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Libyssa
@@ -1011,9 +1011,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -1023,7 +1023,7 @@
 	citizen=
 	{
 		amount=1
-		culture="greek_thracian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1032,7 +1032,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_thracian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1041,7 +1041,7 @@
 	slaves=
 	{
 		amount=1
-		culture="greek_thracian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1053,10 +1053,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_thracian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="salt"
 	nobles=
@@ -1070,8 +1070,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1080,7 +1080,7 @@
 	freemen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1089,12 +1089,12 @@
 	slaves=
 	{
 		amount=3
-		culture="bithynian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Antigoneia Bithynias
@@ -1102,9 +1102,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -1114,7 +1114,7 @@
 	citizen=
 	{
 		amount=1
-		culture="macedonian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1123,7 +1123,7 @@
 	freemen=
 	{
 		amount=1
-		culture="macedonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1132,20 +1132,20 @@
 	slaves=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kios
@@ -1153,17 +1153,17 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_thracian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1180,26 +1180,26 @@
 	slaves=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Strobilos
@@ -1207,9 +1207,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -1227,20 +1227,20 @@
 	slaves=
 	{
 		amount=1
-		culture="bithynian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Pythopolis
@@ -1248,9 +1248,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1268,20 +1268,20 @@
 	slaves=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Myrleia
@@ -1289,9 +1289,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="greek_thracian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
@@ -1309,20 +1309,20 @@
 	slaves=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Apollonia Rhyndakos
@@ -1330,9 +1330,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="mysian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1342,8 +1342,8 @@
 	citizen=
 	{
 		amount=1
-		culture="greek_thracian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1352,8 +1352,8 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_thracian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1366,7 +1366,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 }
 #Helge
@@ -1374,9 +1374,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="mysian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -1390,8 +1390,8 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_thracian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1400,7 +1400,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="phrygian"
+		culture="wvenedi"
 	}
 }
 #Lamounia
@@ -1408,9 +1408,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	freemen=
@@ -1424,7 +1424,7 @@
 	slaves=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1433,7 +1433,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 }
 #Sarkotyle
@@ -1441,9 +1441,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="mysian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -1453,7 +1453,7 @@
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1466,7 +1466,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 }
 #Otroia
@@ -1474,9 +1474,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1486,7 +1486,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1499,7 +1499,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 }
 #Kabia
@@ -1507,9 +1507,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1523,8 +1523,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1537,13 +1537,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 }
 #Modra
@@ -1551,9 +1551,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="mariandynian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -1563,8 +1563,8 @@
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1577,13 +1577,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="phrygian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="bithynian"
+		culture="wvenedi"
 	}
 }
 #Oka
@@ -1591,9 +1591,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1611,7 +1611,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 }
 #Dableis
@@ -1619,9 +1619,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -1639,13 +1639,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="mariandynian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Themiskyra
@@ -1653,9 +1653,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="greek_pontic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="hemp"
 	citizen=
@@ -1673,8 +1673,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Amisos
@@ -1682,10 +1682,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="greek_pontic"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="salt"
 	nobles=
@@ -1695,13 +1695,13 @@
 	citizen=
 	{
 		amount=1
-		culture="athenian"
+		culture="wvenedi"
 	}
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1718,13 +1718,13 @@
 	tribesmen=
 	{
 		amount=2
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Gadilon
@@ -1732,9 +1732,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	citizen=
@@ -1748,7 +1748,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1757,13 +1757,13 @@
 	tribesmen=
 	{
 		amount=2
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Zaliches
@@ -1771,9 +1771,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="greek_pontic"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fish"
 	citizen=
@@ -1791,14 +1791,14 @@
 	tribesmen=
 	{
 		amount=2
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Sinope
@@ -1806,16 +1806,16 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="greek_pontic"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	nobles=
 	{
 		amount=1
-		culture="athenian"
+		culture="wvenedi"
 	}
 	nobles=
 	{
@@ -1824,7 +1824,7 @@
 	citizen=
 	{
 		amount=1
-		culture="athenian"
+		culture="wvenedi"
 	}
 	citizen=
 	{
@@ -1837,8 +1837,8 @@
 	freemen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1847,26 +1847,26 @@
 	slaves=
 	{
 		amount=1
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Stephane
@@ -1874,9 +1874,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -1890,7 +1890,7 @@
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1899,13 +1899,13 @@
 	tribesmen=
 	{
 		amount=1
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Abonouteichos
@@ -1913,16 +1913,16 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="cappadocian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1935,13 +1935,13 @@
 	tribesmen=
 	{
 		amount=2
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Karambis
@@ -1949,9 +1949,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fish"
 	citizen=
@@ -1965,13 +1965,13 @@
 	freemen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="greek_pontic"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1980,13 +1980,13 @@
 	tribesmen=
 	{
 		amount=2
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Sakorsa
@@ -1994,9 +1994,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	freemen=
@@ -2017,9 +2017,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	citizen=
@@ -2044,9 +2044,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="paphlagonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cattle"
 	freemen=
@@ -2067,9 +2067,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods=""
 }
@@ -2078,9 +2078,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="phrygian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -2098,7 +2098,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="mysian"
+		culture="wvenedi"
 	}
 }
 #Modra Pass
@@ -2106,9 +2106,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="bithynian"
+	culture="wvenedi"
 	province_rank=""
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods=""
 }

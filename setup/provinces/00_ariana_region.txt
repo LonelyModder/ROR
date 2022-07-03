@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	freemen=
@@ -22,9 +22,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	freemen=
@@ -41,9 +41,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	freemen=
@@ -60,9 +60,9 @@
 {
 	barbarian_power=0
 	civilization_value=27
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="fur"
 	freemen=
@@ -79,9 +79,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	freemen=
@@ -98,9 +98,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	freemen=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	freemen=
@@ -140,9 +140,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	freemen=
@@ -163,15 +163,15 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -187,9 +187,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	citizen=
@@ -214,9 +214,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -241,21 +241,21 @@
 {
 	barbarian_power=0
 	civilization_value=44
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
 	{
 		amount=2
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=6
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	citizen=
 	{
@@ -264,13 +264,13 @@
 	freemen=
 	{
 		amount=2
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -290,9 +290,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	freemen=
@@ -313,15 +313,15 @@
 {
 	barbarian_power=0
 	civilization_value=27
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -341,9 +341,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -352,9 +352,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -363,9 +363,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -374,9 +374,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank=""
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods=""
 }
@@ -385,9 +385,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	freemen=
@@ -404,9 +404,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	tribesmen=
@@ -419,9 +419,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	freemen=
@@ -438,9 +438,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	tribesmen=
@@ -453,9 +453,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	freemen=
@@ -476,9 +476,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="median"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="precious_metals"
 	tribesmen=
@@ -491,15 +491,15 @@
 {
 	barbarian_power=0
 	civilization_value=39
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	citizen=
 	{
 		amount=2
-		culture="macedonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -515,9 +515,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="utian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants"
 	freemen=
@@ -538,9 +538,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -565,9 +565,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	citizen=
@@ -577,8 +577,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pactyan"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -591,14 +591,14 @@
 	slaves=
 	{
 		amount=7
-		culture="pactyan"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=5
-		culture="pactyan"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Arachotos
@@ -606,9 +606,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	slaves=
@@ -621,9 +621,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	slaves=
@@ -640,9 +640,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	freemen=
@@ -663,9 +663,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	slaves=
@@ -682,9 +682,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="glass"
 	slaves=
@@ -701,9 +701,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	slaves=
@@ -720,9 +720,9 @@
 {
 	barbarian_power=0
 	civilization_value=43
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cloth"
 	citizen=
@@ -747,9 +747,9 @@
 {
 	barbarian_power=0
 	civilization_value=17
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="marble"
 	slaves=
@@ -766,9 +766,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	freemen=
@@ -789,9 +789,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -812,9 +812,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="marble"
 	citizen=
@@ -831,9 +831,9 @@
 {
 	barbarian_power=0
 	civilization_value=44
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	citizen=
@@ -847,8 +847,8 @@
 	freemen=
 	{
 		amount=2
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -857,8 +857,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="sattagydian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Artakabana
@@ -866,9 +866,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	citizen=
@@ -893,16 +893,16 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	citizen=
 	{
 		amount=2
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -911,8 +911,8 @@
 	freemen=
 	{
 		amount=2
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -928,9 +928,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="honey"
 	slaves=
@@ -947,10 +947,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	holy_site="omen_atar"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	freemen=
@@ -967,9 +967,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -990,9 +990,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="marble"
 	freemen=
@@ -1009,9 +1009,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	citizen=
@@ -1032,9 +1032,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	citizen=
@@ -1055,15 +1055,15 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wood"
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1075,9 +1075,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	freemen=
@@ -1094,9 +1094,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="spices"
 	tribesmen=
@@ -1109,9 +1109,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	freemen=
@@ -1132,9 +1132,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="parecanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	slaves=
@@ -1151,9 +1151,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="horses"
 	freemen=
@@ -1174,9 +1174,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	tribesmen=
@@ -1189,9 +1189,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -1212,9 +1212,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="vegetables"
 	freemen=
@@ -1231,9 +1231,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -1250,9 +1250,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="gedrosian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	slaves=
@@ -1269,9 +1269,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="woad"
 	freemen=
@@ -1288,9 +1288,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	citizen=
@@ -1311,15 +1311,15 @@
 {
 	barbarian_power=0
 	civilization_value=27
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1339,9 +1339,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="incense"
 	tribesmen=
@@ -1354,9 +1354,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	freemen=
@@ -1373,9 +1373,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="horses"
 	citizen=
@@ -1392,9 +1392,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carmanian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	freemen=
@@ -1411,9 +1411,9 @@
 {
 	barbarian_power=0
 	civilization_value=18
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cloth"
 	freemen=
@@ -1434,9 +1434,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -1457,15 +1457,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1485,15 +1485,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1509,9 +1509,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="honey"
 	citizen=
@@ -1532,15 +1532,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1560,9 +1560,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="precious_metals"
 	freemen=
@@ -1583,15 +1583,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1611,9 +1611,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1638,15 +1638,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1666,15 +1666,15 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	citizen=
 	{
 		amount=2
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1694,15 +1694,15 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
 	{
 		amount=3
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -1718,9 +1718,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	citizen=
@@ -1741,9 +1741,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -1764,9 +1764,9 @@
 {
 	barbarian_power=0
 	civilization_value=17
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="leather"
 	freemen=
@@ -1787,9 +1787,9 @@
 {
 	barbarian_power=0
 	civilization_value=17
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="precious_metals"
 	freemen=
@@ -1810,9 +1810,9 @@
 {
 	barbarian_power=0
 	civilization_value=17
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="iron"
 	freemen=
@@ -1833,9 +1833,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -1856,9 +1856,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sattagydian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1879,9 +1879,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=
@@ -1894,9 +1894,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="pactyan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	tribesmen=

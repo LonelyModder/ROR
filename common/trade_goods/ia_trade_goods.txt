@@ -119,3 +119,131 @@ bitumen = {
 	
 	color = hsv { 0.88 0.3 0 }
 }
+#From gladius
+wax = {
+	category = 6
+	
+	gold = 0.2
+
+	province = {
+		local_pop_conversion_speed_modifier = 0.02
+	}
+	country = {
+		diplomatic_range_modifier = 0.2
+	}
+	
+	color = { 0.12 0.3 0.64 }
+	
+}
+
+tea = {
+	category = 6
+	
+	gold = 0.2
+
+	province = {
+		local_tax_modifier = 0.1
+	}
+	country = {
+		war_exhaustion = -0.1
+	}
+	
+	color = { 0.18 0.8 0.24 }
+	
+}
+
+opium = {
+	category = 6
+	
+	gold = 0.3
+
+	province = {
+		local_unrest = -1
+	}
+	country = {
+		global_population_growth = 0.05
+	}	
+	
+	color = { 0.8 0.01 0.4 }
+	
+}
+
+lead = {
+	category = 6
+	
+	gold = 0.1
+
+	province = {
+		local_building_slot = 1
+	}
+	country = {
+		slingers_discipline = 0.1
+	}
+	
+	color = { 0.01 0.01 0.01 }
+	
+}
+
+copper = {
+	category = 4
+	
+	gold = 0.2
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		javelins_discipline = 0.1
+	}
+		
+	color = { 0.1 0.9 0.5 }
+	
+}
+
+silver = {
+	category = 4
+	
+	gold = 0.5
+
+	province = {
+		local_freemen_happyness = happiness_small_svalue
+	}
+	country = {
+		global_freemen_happyness = happiness_large_svalue
+	}
+	
+	color = hsv { 0.55 0.25 0.3 }
+	
+}
+
+porcelain = {
+	category = 2
+	
+	gold = 0.2
+
+	province = {
+		local_nobles_happyness = happiness_small_svalue
+	}
+	country = {
+		military_tech_investment = 0.05
+	}
+	
+	color = { 0.58 0.02 0.44 }
+	
+}
+
+jade = {
+	category = 6
+	
+	gold = 0.3
+
+	province = {
+		local_state_trade_routes = 1
+	}
+	country = {
+		monthly_legitimacy = 0.1
+	}
+	
+	color = hsv { 0.3 0.8 0.3 }
+	
+}

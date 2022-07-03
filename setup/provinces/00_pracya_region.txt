@@ -3,10 +3,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="magadhi"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city_metropolis"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="silk"
 	nobles=
@@ -35,9 +35,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="papyrus"
 	citizen=
@@ -62,9 +62,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="silk"
 	citizen=
@@ -89,10 +89,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	holy_site="omen_bodh"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="papyrus"
 	citizen=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	citizen=
@@ -144,9 +144,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="precious_metals"
 	citizen=
@@ -171,10 +171,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="precious_metals"
 	citizen=
@@ -199,9 +199,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	citizen=
@@ -226,9 +226,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="earthware"
 	citizen=
@@ -253,9 +253,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	slaves=
@@ -272,9 +272,9 @@
 {
 	barbarian_power=0
 	civilization_value=10
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -295,9 +295,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="base_metals"
 	citizen=
@@ -322,10 +322,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	holy_site="omen_mahavir_jayanti"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="leather"
 	citizen=
@@ -350,9 +350,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
@@ -377,9 +377,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -400,9 +400,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	slaves=
@@ -419,9 +419,9 @@
 {
 	barbarian_power=0
 	civilization_value=16
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="silk"
 	citizen=
@@ -446,9 +446,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	citizen=
@@ -473,9 +473,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	citizen=
@@ -496,9 +496,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="silk"
 	citizen=
@@ -519,9 +519,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	citizen=
@@ -542,9 +542,9 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="grain"
 	citizen=
@@ -569,9 +569,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="cloth"
 	citizen=
@@ -596,10 +596,10 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="bangli"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="silk"
 	freemen=
@@ -620,9 +620,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	slaves=
@@ -639,9 +639,9 @@
 {
 	barbarian_power=0
 	civilization_value=13
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	citizen=
@@ -666,9 +666,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="silk"
 	citizen=
@@ -693,9 +693,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -720,9 +720,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="silk"
 	freemen=
@@ -743,9 +743,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	citizen=
@@ -770,9 +770,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="jainism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	citizen=
@@ -797,9 +797,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	freemen=
@@ -820,9 +820,9 @@
 {
 	barbarian_power=0
 	civilization_value=10
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="silk"
 	citizen=
@@ -847,9 +847,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	citizen=
@@ -874,9 +874,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	freemen=
@@ -897,9 +897,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	freemen=
@@ -920,9 +920,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="silk"
 	freemen=
@@ -943,9 +943,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="dye"
 	citizen=
@@ -966,9 +966,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	freemen=
@@ -989,9 +989,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	freemen=
@@ -1012,9 +1012,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	freemen=
@@ -1035,9 +1035,9 @@
 {
 	barbarian_power=0
 	civilization_value=14
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	freemen=
@@ -1058,9 +1058,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	freemen=
@@ -1081,9 +1081,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	freemen=
@@ -1104,9 +1104,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	freemen=
@@ -1127,9 +1127,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	freemen=
@@ -1150,9 +1150,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	freemen=
@@ -1173,9 +1173,9 @@
 {
 	barbarian_power=0
 	civilization_value=7
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	freemen=
@@ -1192,10 +1192,10 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="bangli"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="incense"
 	citizen=
@@ -1220,9 +1220,9 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="cloth"
 	freemen=
@@ -1243,9 +1243,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -1270,9 +1270,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	freemen=
@@ -1293,10 +1293,10 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	holy_site="omen_parshvanatha"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	citizen=
@@ -1317,9 +1317,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="spices"
 	citizen=
@@ -1340,9 +1340,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -1367,9 +1367,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="jainism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
@@ -1390,9 +1390,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	freemen=
@@ -1413,9 +1413,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
@@ -1436,9 +1436,9 @@
 {
 	barbarian_power=0
 	civilization_value=22
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	citizen=
@@ -1463,9 +1463,9 @@
 {
 	barbarian_power=0
 	civilization_value=13
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cloth"
 	citizen=
@@ -1490,9 +1490,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="earthware"
 	citizen=
@@ -1517,9 +1517,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fur"
 	citizen=
@@ -1544,9 +1544,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	freemen=
@@ -1567,9 +1567,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -1590,9 +1590,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	citizen=
@@ -1617,9 +1617,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="fish"
 	citizen=
@@ -1644,9 +1644,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -1667,9 +1667,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	citizen=
@@ -1694,9 +1694,9 @@
 {
 	barbarian_power=0
 	civilization_value=10
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	freemen=
@@ -1717,9 +1717,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="earthware"
 	freemen=
@@ -1740,9 +1740,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1759,9 +1759,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	freemen=
@@ -1782,9 +1782,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	freemen=
@@ -1805,9 +1805,9 @@
 {
 	barbarian_power=0
 	civilization_value=10
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -1832,9 +1832,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	freemen=
@@ -1855,10 +1855,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="bangli"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	citizen=
@@ -1883,9 +1883,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	freemen=
@@ -1906,9 +1906,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	freemen=
@@ -1929,9 +1929,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wild_game"
 	citizen=
@@ -1956,9 +1956,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -1983,9 +1983,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -2002,9 +2002,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="bangli"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -2025,9 +2025,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	freemen=
@@ -2048,9 +2048,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="vegetables"
 	citizen=
@@ -2071,9 +2071,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	freemen=
@@ -2094,9 +2094,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -2113,9 +2113,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="kamarupi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	slaves=
@@ -2132,9 +2132,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	freemen=
@@ -2155,9 +2155,9 @@
 {
 	barbarian_power=0
 	civilization_value=8
-	culture="himalayan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="incense"
 	freemen=
@@ -2178,9 +2178,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="magadhi"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="grain"
 	citizen=

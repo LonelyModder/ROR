@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="iron"
 	citizen=
@@ -30,10 +30,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="amber"
 	citizen=
@@ -58,9 +58,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -85,9 +85,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="stone"
 	freemen=
@@ -104,11 +104,11 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	holy_site="omen_rama"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="gems"
 	citizen=
@@ -133,9 +133,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	nobles=
@@ -149,7 +149,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -162,7 +162,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -174,9 +174,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	slaves=
@@ -193,9 +193,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -216,9 +216,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="gems"
 	citizen=
@@ -243,9 +243,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	citizen=
@@ -255,7 +255,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -268,12 +268,12 @@
 	slaves=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 }
 #Vilath
@@ -281,9 +281,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -308,9 +308,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cattle"
 	citizen=
@@ -335,9 +335,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="salt"
 	citizen=
@@ -347,7 +347,7 @@
 	freemen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -360,12 +360,12 @@
 	slaves=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -377,15 +377,15 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="salt"
 	citizen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -394,7 +394,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -407,7 +407,7 @@
 	slaves=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -419,9 +419,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="jainism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -431,7 +431,7 @@
 	citizen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -440,12 +440,12 @@
 	freemen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -461,15 +461,15 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fur"
 	citizen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -478,7 +478,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -491,7 +491,7 @@
 	slaves=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -503,15 +503,15 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="wood"
 	citizen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -520,7 +520,7 @@
 	freemen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -533,12 +533,12 @@
 	slaves=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -550,9 +550,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -577,9 +577,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="leather"
 	citizen=
@@ -589,7 +589,7 @@
 	freemen=
 	{
 		amount=2
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -602,7 +602,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -614,10 +614,10 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -642,9 +642,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	freemen=
@@ -665,9 +665,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -692,9 +692,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	citizen=
@@ -719,10 +719,10 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="glass"
 	citizen=
@@ -747,9 +747,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="honey"
 	citizen=
@@ -774,9 +774,9 @@
 {
 	barbarian_power=0
 	civilization_value=23.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="leather"
 	citizen=
@@ -786,12 +786,12 @@
 	citizen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -800,22 +800,22 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -831,9 +831,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	citizen=
@@ -851,17 +851,17 @@
 	slaves=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -873,9 +873,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -900,9 +900,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	citizen=
@@ -927,9 +927,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	citizen=
@@ -943,12 +943,12 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -957,7 +957,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -966,7 +966,7 @@
 	tribesmen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 }
 #Kavera
@@ -974,15 +974,15 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	citizen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -991,7 +991,7 @@
 	freemen=
 	{
 		amount=2
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1004,12 +1004,12 @@
 	slaves=
 	{
 		amount=2
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1021,15 +1021,15 @@
 {
 	barbarian_power=0
 	civilization_value=27.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	citizen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1038,7 +1038,7 @@
 	freemen=
 	{
 		amount=4
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1051,12 +1051,12 @@
 	slaves=
 	{
 		amount=3
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1068,9 +1068,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="jainism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="cloth"
 	citizen=
@@ -1080,7 +1080,7 @@
 	citizen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1089,12 +1089,12 @@
 	freemen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1107,7 +1107,7 @@
 	tribesmen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 }
 #Anuradhapura
@@ -1115,9 +1115,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="earthware"
 	citizen=
@@ -1131,8 +1131,8 @@
 	freemen=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1148,20 +1148,20 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="salt"
 	citizen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1170,7 +1170,7 @@
 	slaves=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1186,9 +1186,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fish"
 	citizen=
@@ -1198,7 +1198,7 @@
 	citizen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1211,7 +1211,7 @@
 	slaves=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1223,10 +1223,10 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lankan"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="salt"
 	citizen=
@@ -1243,9 +1243,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="spices"
 	citizen=
@@ -1259,7 +1259,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 }
 #Rohanada
@@ -1267,9 +1267,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	citizen=
@@ -1283,8 +1283,8 @@
 	slaves=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Gokanna
@@ -1292,17 +1292,17 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	citizen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1315,8 +1315,8 @@
 	freemen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1329,8 +1329,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Modoutou
@@ -1338,9 +1338,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	freemen=
@@ -1361,16 +1361,16 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants"
 	citizen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1383,8 +1383,8 @@
 	freemen=
 	{
 		amount=2
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1397,8 +1397,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Vijitanagara
@@ -1406,9 +1406,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="spices"
 	citizen=
@@ -1426,8 +1426,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kalyani
@@ -1435,10 +1435,10 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="lankan"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	citizen=
@@ -1459,10 +1459,10 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="lankan"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -1487,9 +1487,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="spices"
 	citizen=
@@ -1510,9 +1510,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="incense"
 	citizen=
@@ -1537,9 +1537,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="spices"
 	citizen=
@@ -1564,9 +1564,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="amber"
 	citizen=
@@ -1587,16 +1587,16 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants"
 	citizen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1609,8 +1609,8 @@
 	freemen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1622,10 +1622,10 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="lankan"
+	culture="wvenedi"
 	holy_site="omen_sigiriya"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="wood"
 	citizen=
@@ -1642,9 +1642,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	citizen=
@@ -1665,9 +1665,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	freemen=
@@ -1677,8 +1677,8 @@
 	freemen=
 	{
 		amount=1
-		culture="lankan"
-		religion="buddhism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1694,9 +1694,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="buddhism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	citizen=
@@ -1706,8 +1706,8 @@
 	citizen=
 	{
 		amount=1
-		culture="lankan"
-		religion="hindu"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1716,8 +1716,8 @@
 	slaves=
 	{
 		amount=1
-		culture="lankan"
-		religion="hindu"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1729,15 +1729,15 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lankan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cloth"
 	citizen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1746,7 +1746,7 @@
 	freemen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1755,7 +1755,7 @@
 	slaves=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1767,9 +1767,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
@@ -1794,9 +1794,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="vegetables"
 	citizen=
@@ -1821,10 +1821,10 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -1849,9 +1849,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="salt"
 	citizen=
@@ -1876,9 +1876,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	citizen=
@@ -1899,9 +1899,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	citizen=
@@ -1926,15 +1926,15 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1943,7 +1943,7 @@
 	freemen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1956,7 +1956,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="buddhism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1968,9 +1968,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1995,9 +1995,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -2022,9 +2022,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="cattle"
 	citizen=
@@ -2049,9 +2049,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="base_metals"
 	citizen=
@@ -2072,9 +2072,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="woad"
 	citizen=
@@ -2095,9 +2095,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	citizen=
@@ -2118,10 +2118,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="tamil"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	citizen=
@@ -2146,9 +2146,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="elephants"
 	citizen=
@@ -2169,9 +2169,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	citizen=
@@ -2196,9 +2196,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
@@ -2223,9 +2223,9 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	slaves=
@@ -2242,9 +2242,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="iron"
 	slaves=
@@ -2261,9 +2261,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -2288,9 +2288,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	citizen=
@@ -2315,9 +2315,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="fur"
 	freemen=
@@ -2338,9 +2338,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -2361,9 +2361,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="tamil"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="woad"
 	citizen=
@@ -2388,15 +2388,15 @@
 {
 	barbarian_power=0
 	civilization_value=11
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -2405,7 +2405,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2422,7 +2422,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 }
 #Mallayapalam
@@ -2430,9 +2430,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fur"
 	citizen=
@@ -2442,7 +2442,7 @@
 	freemen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2455,7 +2455,7 @@
 	slaves=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -2464,7 +2464,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 }
 #Yerraguddi
@@ -2472,9 +2472,9 @@
 {
 	barbarian_power=0
 	civilization_value=14
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="city"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="leather"
 	citizen=
@@ -2499,9 +2499,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="elephants"
 	citizen=
@@ -2526,15 +2526,15 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	citizen=
 	{
 		amount=2
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -2543,7 +2543,7 @@
 	freemen=
 	{
 		amount=1
-		religion="jainism"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2559,9 +2559,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="stone"
 	citizen=
@@ -2582,9 +2582,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	citizen=
@@ -2609,9 +2609,9 @@
 {
 	barbarian_power=0
 	civilization_value=14
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="city"
-	religion="jainism"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="earthware"
 	citizen=
@@ -2621,7 +2621,7 @@
 	citizen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2630,12 +2630,12 @@
 	freemen=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -2648,7 +2648,7 @@
 	tribesmen=
 	{
 		amount=2
-		religion="hindu"
+		religion="slavic_pantheon"
 	}
 }
 #Bhakkuli
@@ -2656,9 +2656,9 @@
 {
 	barbarian_power=0
 	civilization_value=9
-	culture="telugu"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="hindu"
+	religion="slavic_pantheon"
 	terrain="jungle"
 	trade_goods="gems"
 	citizen=

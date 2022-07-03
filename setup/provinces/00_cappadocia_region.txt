@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -15,7 +15,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -28,7 +28,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="kennataian"
+		culture="wvenedi"
 	}
 }
 #Ouarsapa
@@ -36,15 +36,15 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="cloth"
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
@@ -57,7 +57,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -69,9 +69,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	citizen=
@@ -96,9 +96,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	freemen=
@@ -112,7 +112,7 @@
 	tribesmen=
 	{
 		amount=2
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -124,17 +124,17 @@
 {
 	barbarian_power=0
 	civilization_value=28.5
-	culture="cataonian"
+	culture="wvenedi"
 	holy_site="omen_ma"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -143,7 +143,7 @@
 	citizen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -152,12 +152,12 @@
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=2
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -170,7 +170,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Koropassos
@@ -178,9 +178,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="lycaonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -194,12 +194,12 @@
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -212,7 +212,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 }
 #Zeila
@@ -220,9 +220,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -236,7 +236,7 @@
 	slaves=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -245,12 +245,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Nora
@@ -258,9 +258,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="stone"
 	freemen=
@@ -278,7 +278,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Korama
@@ -286,9 +286,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="vegetables"
 	freemen=
@@ -309,9 +309,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	citizen=
@@ -325,12 +325,12 @@
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -339,7 +339,7 @@
 	slaves=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -348,12 +348,12 @@
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Mazaka
@@ -361,22 +361,22 @@
 {
 	barbarian_power=0
 	civilization_value=21.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="wood"
 	nobles=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -385,19 +385,19 @@
 	citizen=
 	{
 		amount=2
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -406,18 +406,18 @@
 	freemen=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -426,17 +426,17 @@
 	slaves=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
 		amount=3
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -445,12 +445,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Soandos
@@ -458,9 +458,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="marsh"
 	trade_goods="wild_game"
 	citizen=
@@ -478,7 +478,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Euagina
@@ -486,9 +486,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	citizen=
@@ -502,7 +502,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -515,7 +515,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Herpha
@@ -523,9 +523,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="leather"
 	freemen=
@@ -535,7 +535,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -548,7 +548,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Anisa
@@ -556,9 +556,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	freemen=
@@ -568,7 +568,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -581,7 +581,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Parnassos
@@ -589,9 +589,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	freemen=
@@ -601,7 +601,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -614,7 +614,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Nyssa
@@ -622,9 +622,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -634,8 +634,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -644,7 +644,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -657,7 +657,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Zoropassos
@@ -665,9 +665,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	freemen=
@@ -677,7 +677,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -690,7 +690,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Ouenasa
@@ -698,9 +698,9 @@
 {
 	barbarian_power=0
 	civilization_value=30.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	citizen=
@@ -714,7 +714,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -727,7 +727,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Odogra
@@ -735,9 +735,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -747,12 +747,12 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -765,7 +765,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Saralos
@@ -773,9 +773,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	freemen=
@@ -785,7 +785,7 @@
 	freemen=
 	{
 		amount=2
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -798,12 +798,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 }
 #Pteria
@@ -811,16 +811,16 @@
 {
 	barbarian_power=0
 	civilization_value=25.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -829,8 +829,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -839,7 +839,7 @@
 	freemen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -848,7 +848,7 @@
 	slaves=
 	{
 		amount=2
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -857,7 +857,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Tonosa
@@ -865,9 +865,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wild_game"
 	freemen=
@@ -877,7 +877,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -890,7 +890,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Sinispora
@@ -898,9 +898,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wood"
 	freemen=
@@ -910,7 +910,7 @@
 	freemen=
 	{
 		amount=1
-		culture="armenian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -923,7 +923,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="armenian"
+		culture="wvenedi"
 	}
 }
 #Kiakis
@@ -931,9 +931,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="armenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="leather"
 	slaves=
@@ -947,7 +947,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 }
 #Melitia
@@ -955,15 +955,15 @@
 {
 	barbarian_power=0
 	civilization_value=23.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
+		culture="wvenedi"
 	}
 	citizen=
 	{
@@ -972,35 +972,35 @@
 	citizen=
 	{
 		amount=1
-		culture="armenian"
-		religion="armenian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=2
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=2
-		culture="armenian"
-		religion="armenian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=3
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=2
-		culture="cappadocian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=4
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1009,13 +1009,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="armenian"
-		religion="armenian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=3
-		religion="anatolian_religion"
+		religion="slavic_pantheon"
 	}
 }
 #Arka
@@ -1023,9 +1023,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="honey"
 	freemen=
@@ -1043,8 +1043,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="armenian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Zizoatra
@@ -1052,9 +1052,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -1064,8 +1064,8 @@
 	freemen=
 	{
 		amount=1
-		culture="armenian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1081,9 +1081,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="armenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1097,8 +1097,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="cataonian"
-		religion="anatolian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Korne
@@ -1106,9 +1106,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="armenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wood"
 	freemen=
@@ -1129,9 +1129,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="honey"
 	freemen=
@@ -1152,16 +1152,16 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
 	{
 		amount=1
-		culture="cilician"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1170,7 +1170,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1183,7 +1183,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Karnalis
@@ -1191,9 +1191,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	citizen=
@@ -1203,17 +1203,17 @@
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1222,7 +1222,7 @@
 	slaves=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1231,7 +1231,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Dasmenda
@@ -1239,16 +1239,16 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1257,12 +1257,12 @@
 	citizen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1271,12 +1271,12 @@
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1285,7 +1285,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1294,12 +1294,12 @@
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Gauraina
@@ -1307,9 +1307,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -1319,8 +1319,8 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1329,12 +1329,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 }
 #Malandara
@@ -1342,9 +1342,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
@@ -1354,7 +1354,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1367,7 +1367,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Sasima
@@ -1375,9 +1375,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	citizen=
@@ -1391,7 +1391,7 @@
 	freemen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1404,7 +1404,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Kodouzalaba
@@ -1412,9 +1412,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -1424,7 +1424,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1437,7 +1437,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Agranai
@@ -1445,9 +1445,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="precious_metals"
 	freemen=
@@ -1465,7 +1465,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Sibora
@@ -1473,9 +1473,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="vegetables"
 	freemen=
@@ -1493,7 +1493,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="paphlagonian"
+		culture="wvenedi"
 	}
 }
 #Kamoulianai
@@ -1501,9 +1501,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	freemen=
@@ -1524,9 +1524,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -1540,7 +1540,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1556,9 +1556,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -1568,8 +1568,8 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1578,7 +1578,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1594,9 +1594,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="leather"
 	freemen=
@@ -1606,7 +1606,7 @@
 	freemen=
 	{
 		amount=1
-		culture="armenian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1619,7 +1619,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="armenian"
+		culture="wvenedi"
 	}
 }
 #Seiousa
@@ -1627,9 +1627,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	citizen=
@@ -1647,7 +1647,7 @@
 	slaves=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1656,7 +1656,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 }
 #Ardistama
@@ -1664,9 +1664,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lycaonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cloth"
 	freemen=
@@ -1676,7 +1676,7 @@
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1689,12 +1689,12 @@
 	tribesmen=
 	{
 		amount=1
-		culture="isaurian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Kybystra
@@ -1702,9 +1702,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="lycaonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -1718,7 +1718,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1731,7 +1731,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="isaurian"
+		culture="wvenedi"
 	}
 }
 #Tyana
@@ -1739,16 +1739,16 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1757,14 +1757,14 @@
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=1
-		culture="ionian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1773,34 +1773,34 @@
 	freemen=
 	{
 		amount=2
-		culture="cilician"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="isaurian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -1809,7 +1809,7 @@
 	slaves=
 	{
 		amount=1
-		culture="kennataian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1818,17 +1818,17 @@
 	tribesmen=
 	{
 		amount=1
-		culture="isaurian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="kennataian"
+		culture="wvenedi"
 	}
 }
 #Garsaura
@@ -1836,16 +1836,16 @@
 {
 	barbarian_power=0
 	civilization_value=27.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	nobles=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1854,13 +1854,13 @@
 	citizen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	citizen=
 	{
 		amount=1
-		culture="pasargadi"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1869,28 +1869,28 @@
 	freemen=
 	{
 		amount=1
-		culture="phrygian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1903,7 +1903,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="lycaonian"
+		culture="wvenedi"
 	}
 }
 #Kokousos
@@ -1911,9 +1911,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	citizen=
@@ -1927,7 +1927,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1936,7 +1936,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Salambriai
@@ -1944,9 +1944,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="lycaonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	citizen=
@@ -1960,7 +1960,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -1969,7 +1969,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="morimenian"
+		culture="wvenedi"
 	}
 }
 #Baka
@@ -1977,20 +1977,20 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="kennataian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -2003,7 +2003,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Ariaramneia
@@ -2011,9 +2011,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	freemen=
@@ -2031,7 +2031,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="kennataian"
+		culture="wvenedi"
 	}
 }
 #Kabassos
@@ -2039,9 +2039,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	freemen=
@@ -2051,7 +2051,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -2064,7 +2064,7 @@
 	tribesmen=
 	{
 		amount=2
-		culture="kennataian"
+		culture="wvenedi"
 	}
 }
 #Arabissos
@@ -2072,9 +2072,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -2096,7 +2096,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Tanadaris
@@ -2104,9 +2104,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cataonian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	freemen=
@@ -2120,7 +2120,7 @@
 	slaves=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	tribesmen=
 	{
@@ -2129,7 +2129,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 }
 #Eulepa
@@ -2137,9 +2137,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="cappadocian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="iron"
 	freemen=
@@ -2149,7 +2149,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 	slaves=
 	{
@@ -2162,7 +2162,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="cataonian"
+		culture="wvenedi"
 	}
 }
 #Androna
@@ -2170,9 +2170,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="morimenian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="anatolian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="vegetables"
 	freemen=
@@ -2182,7 +2182,7 @@
 	freemen=
 	{
 		amount=1
-		culture="cappadocian"
+		culture="wvenedi"
 	}
 	slaves=
 	{

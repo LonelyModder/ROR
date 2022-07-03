@@ -3,10 +3,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="stone"
 	citizen=
@@ -27,9 +27,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants"
 	citizen=
@@ -46,9 +46,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="gaetulian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	freemen=
@@ -69,9 +69,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	citizen=
@@ -96,9 +96,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -119,9 +119,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	slaves=
@@ -138,9 +138,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -165,9 +165,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cloth"
 	citizen=
@@ -192,9 +192,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -215,21 +215,21 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	citizen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=3
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -241,9 +241,9 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	citizen=
@@ -268,9 +268,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	citizen=
@@ -291,9 +291,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	citizen=
@@ -314,9 +314,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wine"
 	freemen=
@@ -333,9 +333,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -356,9 +356,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -368,8 +368,8 @@
 	freemen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -385,9 +385,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -401,8 +401,8 @@
 	freemen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -414,10 +414,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -431,8 +431,8 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -445,8 +445,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Bulla Regia
@@ -454,9 +454,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -470,7 +470,7 @@
 	freemen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -486,9 +486,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	citizen=
@@ -513,9 +513,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	citizen=
@@ -536,9 +536,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	freemen=
@@ -559,9 +559,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	freemen=
@@ -578,9 +578,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	citizen=
@@ -598,7 +598,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 }
 #Uzappa
@@ -606,21 +606,21 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	citizen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -633,8 +633,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -643,7 +643,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 }
 #Seressi
@@ -651,9 +651,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -671,8 +671,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Furnos Maius
@@ -680,9 +680,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -692,14 +692,14 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Abthugni
@@ -707,9 +707,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -719,8 +719,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Feradi Maius
@@ -728,10 +728,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="wine"
 	citizen=
@@ -745,14 +745,14 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Thinissut
@@ -760,10 +760,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	holy_site="omen_baal_hammon"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="wine"
 	citizen=
@@ -781,8 +781,8 @@
 	tribesmen=
 	{
 		amount=4
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Curubis
@@ -790,10 +790,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="spices"
 	citizen=
@@ -807,8 +807,8 @@
 	freemen=
 	{
 		amount=5
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -817,14 +817,14 @@
 	slaves=
 	{
 		amount=5
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=12
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Mactaris
@@ -832,16 +832,16 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	citizen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -861,9 +861,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	citizen=
@@ -884,9 +884,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="horses"
 	citizen=
@@ -907,9 +907,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -923,8 +923,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Oudna
@@ -932,9 +932,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -948,8 +948,8 @@
 	tribesmen=
 	{
 		amount=5
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Membressa
@@ -957,9 +957,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -977,8 +977,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Carpis
@@ -986,9 +986,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	citizen=
@@ -1006,8 +1006,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Nepheris
@@ -1015,9 +1015,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -1031,14 +1031,14 @@
 	slaves=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kerkouane
@@ -1046,9 +1046,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="dye"
 	nobles=
@@ -1066,14 +1066,14 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Missua
@@ -1081,10 +1081,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="stone"
 	citizen=
@@ -1102,14 +1102,14 @@
 	slaves=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Carthage
@@ -1119,12 +1119,12 @@
 	barbarian_power=0
 	civilization_value=43
 	commerce_building=2
-	culture="carthaginian"
+	culture="wvenedi"
 	holy_site="omen_tanit"
 	library_building=2
 	port_building=3
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	town_hall_building=1
 	trade_goods="dye"
@@ -1139,20 +1139,20 @@
 	citizen=
 	{
 		amount=3
-		culture="hebrew"
-		religion="judaism"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=5
-		culture="syracusan"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
 		amount=3
-		culture="massalian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1161,14 +1161,14 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=2
-		culture="syracusan"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1177,14 +1177,14 @@
 	slaves=
 	{
 		amount=6
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=10
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Atiq
@@ -1192,9 +1192,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="base_metals"
 	nobles=
@@ -1212,8 +1212,8 @@
 	freemen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1222,8 +1222,8 @@
 	tribesmen=
 	{
 		amount=6
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Ubon
@@ -1231,10 +1231,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -1248,8 +1248,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Uzali Sar
@@ -1257,9 +1257,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -1277,8 +1277,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Matar
@@ -1286,9 +1286,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -1306,8 +1306,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Thizika
@@ -1315,9 +1315,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -1331,8 +1331,8 @@
 	freemen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1341,8 +1341,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kinna Thabracania
@@ -1350,9 +1350,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="base_metals"
 	citizen=
@@ -1366,14 +1366,14 @@
 	slaves=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Rucuma
@@ -1381,9 +1381,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	citizen=
@@ -1393,14 +1393,14 @@
 	freemen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Vaga
@@ -1408,9 +1408,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -1428,14 +1428,14 @@
 	slaves=
 	{
 		amount=4
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Thimida Bure
@@ -1443,9 +1443,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wood"
 	citizen=
@@ -1463,8 +1463,8 @@
 	slaves=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1473,8 +1473,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Ureu
@@ -1482,9 +1482,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -1502,8 +1502,8 @@
 	tribesmen=
 	{
 		amount=4
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Numluli
@@ -1511,9 +1511,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	citizen=
@@ -1531,8 +1531,8 @@
 	tribesmen=
 	{
 		amount=4
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Aunobaris
@@ -1540,9 +1540,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -1552,7 +1552,7 @@
 	citizen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1561,13 +1561,13 @@
 	freemen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1583,10 +1583,10 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="massylian"
+	culture="wvenedi"
 	holy_site="omen_tannit"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="wood"
 	citizen=
@@ -1600,13 +1600,13 @@
 	freemen=
 	{
 		amount=1
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="carthaginian_pantheon"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1622,9 +1622,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="forest"
 	trade_goods="olive"
 	citizen=
@@ -1638,14 +1638,14 @@
 	slaves=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Thignica
@@ -1653,9 +1653,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="olive"
 	citizen=
@@ -1673,8 +1673,8 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1683,8 +1683,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Muzuc
@@ -1692,9 +1692,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -1708,13 +1708,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
+		culture="wvenedi"
 	}
 }
 #Aquae Casae
@@ -1722,9 +1722,9 @@
 {
 	barbarian_power=0
 	civilization_value=24
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1745,9 +1745,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	freemen=
@@ -1761,8 +1761,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Ulizibbira
@@ -1770,9 +1770,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -1790,8 +1790,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Adramat
@@ -1799,10 +1799,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="olive"
 	nobles=
@@ -1820,14 +1820,14 @@
 	slaves=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Lapki
@@ -1835,9 +1835,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="olive"
 	nobles=
@@ -1855,8 +1855,8 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1865,8 +1865,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Tapsa
@@ -1874,10 +1874,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="salt"
 	nobles=
@@ -1895,8 +1895,8 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1908,9 +1908,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants"
 	citizen=
@@ -1920,7 +1920,7 @@
 	citizen=
 	{
 		amount=1
-		religion="berber_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1933,8 +1933,8 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #A'qola
@@ -1942,10 +1942,10 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="wine"
 	nobles=
@@ -1963,8 +1963,8 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1973,8 +1973,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Bararus
@@ -1982,9 +1982,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wine"
 	citizen=
@@ -2002,8 +2002,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Thysdrus
@@ -2011,9 +2011,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -2031,8 +2031,8 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Usula
@@ -2040,9 +2040,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -2064,8 +2064,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Qarkna
@@ -2073,9 +2073,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	citizen=
@@ -2092,10 +2092,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -2105,7 +2105,7 @@
 	citizen=
 	{
 		amount=1
-		religion="berber_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2118,8 +2118,8 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Aeliae
@@ -2127,9 +2127,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -2147,14 +2147,14 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Taparura
@@ -2162,9 +2162,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="elephants"
 	citizen=
@@ -2182,8 +2182,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Makom Hadash
@@ -2191,9 +2191,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -2203,7 +2203,7 @@
 	citizen=
 	{
 		amount=1
-		religion="berber_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2220,8 +2220,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Bennafa
@@ -2229,9 +2229,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
@@ -2241,12 +2241,12 @@
 	citizen=
 	{
 		amount=1
-		religion="berber_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
 		amount=1
-		religion="berber_religion"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -2259,8 +2259,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Turris Tamalleni
@@ -2268,9 +2268,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="massylian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	freemen=
@@ -2291,10 +2291,10 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	nobles=
@@ -2312,20 +2312,20 @@
 	freemen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=2
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Bezereos
@@ -2333,9 +2333,9 @@
 {
 	barbarian_power=0
 	civilization_value=0
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="berber_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wood"
 	freemen=
@@ -2345,8 +2345,8 @@
 	tribesmen=
 	{
 		amount=3
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Gigthis
@@ -2354,9 +2354,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -2370,8 +2370,8 @@
 	freemen=
 	{
 		amount=1
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -2380,8 +2380,8 @@
 	slaves=
 	{
 		amount=1
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -2393,10 +2393,10 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	citizen=
@@ -2410,8 +2410,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Gergis
@@ -2419,9 +2419,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -2439,8 +2439,8 @@
 	tribesmen=
 	{
 		amount=4
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Zitha
@@ -2448,10 +2448,10 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="carthaginian"
+	culture="wvenedi"
 	port_building=1
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="fish"
 	citizen=
@@ -2465,8 +2465,8 @@
 	slaves=
 	{
 		amount=1
-		culture="massylian"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Putea Pallene
@@ -2474,9 +2474,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -2490,8 +2490,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Zouchis
@@ -2499,9 +2499,9 @@
 {
 	barbarian_power=0
 	civilization_value=26
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	citizen=
@@ -2519,8 +2519,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Pisida
@@ -2528,9 +2528,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wood"
 	citizen=
@@ -2552,8 +2552,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Lokri
@@ -2561,9 +2561,9 @@
 {
 	barbarian_power=0
 	civilization_value=23
-	culture="carthaginian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="carthaginian_pantheon"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wood"
 	citizen=
@@ -2581,7 +2581,7 @@
 	tribesmen=
 	{
 		amount=1
-		culture="garamantic"
-		religion="berber_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }

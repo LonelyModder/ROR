@@ -3,9 +3,9 @@
 {
 	barbarian_power=0
 	civilization_value=38
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="spices"
 	citizen=
@@ -30,16 +30,16 @@
 {
 	barbarian_power=0
 	civilization_value=27.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="camel"
 	nobles=
 	{
 		amount=1
-		culture="macedonian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -63,9 +63,9 @@
 {
 	barbarian_power=0
 	civilization_value=22.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="grain"
 	citizen=
@@ -90,9 +90,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	citizen=
@@ -117,9 +117,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="hemp"
 	citizen=
@@ -144,9 +144,9 @@
 {
 	barbarian_power=0
 	civilization_value=34
-	culture="macedonian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="roman_pantheon"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	citizen=
@@ -167,9 +167,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -194,9 +194,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="stone"
 	citizen=
@@ -217,10 +217,10 @@
 {
 	barbarian_power=0
 	civilization_value=25.5
-	culture="parthian"
+	culture="wvenedi"
 	holy_site="omen_adur_berzen_mihr"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="leather"
 	citizen=
@@ -245,9 +245,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	freemen=
@@ -268,9 +268,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="cloth"
 	citizen=
@@ -280,8 +280,8 @@
 	freemen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -294,14 +294,14 @@
 	slaves=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Salak
@@ -309,9 +309,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -336,9 +336,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	citizen=
@@ -363,9 +363,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	citizen=
@@ -386,9 +386,9 @@
 {
 	barbarian_power=0
 	civilization_value=23.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="spices"
 	citizen=
@@ -413,9 +413,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="camel"
 	citizen=
@@ -436,9 +436,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="camel"
 	citizen=
@@ -456,14 +456,14 @@
 	slaves=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -475,9 +475,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="spices"
 	citizen=
@@ -502,9 +502,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -525,9 +525,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="grain"
 	freemen=
@@ -548,9 +548,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="base_metals"
 	citizen=
@@ -567,9 +567,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="vegetables"
 	citizen=
@@ -594,9 +594,9 @@
 {
 	barbarian_power=0
 	civilization_value=28
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	citizen=
@@ -613,9 +613,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="steppe_horses"
 	citizen=
@@ -640,9 +640,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wine"
 	citizen=
@@ -663,9 +663,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	citizen=
@@ -682,9 +682,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fur"
 	freemen=
@@ -701,9 +701,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -728,9 +728,9 @@
 {
 	barbarian_power=0
 	civilization_value=17.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="cattle"
 	citizen=
@@ -751,9 +751,9 @@
 {
 	barbarian_power=0
 	civilization_value=17.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="camel"
 	citizen=
@@ -778,9 +778,9 @@
 {
 	barbarian_power=0
 	civilization_value=17.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="leather"
 	citizen=
@@ -805,9 +805,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	freemen=
@@ -824,9 +824,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="horses"
 	citizen=
@@ -851,9 +851,9 @@
 {
 	barbarian_power=0
 	civilization_value=33
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="silk"
 	citizen=
@@ -878,9 +878,9 @@
 {
 	barbarian_power=0
 	civilization_value=38
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="city"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="farmland"
 	trade_goods="spices"
 	citizen=
@@ -905,9 +905,9 @@
 {
 	barbarian_power=0
 	civilization_value=27
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="vegetables"
 	citizen=
@@ -932,9 +932,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="salt"
 	citizen=
@@ -948,8 +948,8 @@
 	freemen=
 	{
 		amount=1
-		culture="parthian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -962,8 +962,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="parthian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Kalana
@@ -971,9 +971,9 @@
 {
 	barbarian_power=0
 	civilization_value=2
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="grain"
 	freemen=
@@ -990,9 +990,9 @@
 {
 	barbarian_power=0
 	civilization_value=2
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	freemen=
@@ -1013,9 +1013,9 @@
 {
 	barbarian_power=0
 	civilization_value=2
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -1032,9 +1032,9 @@
 {
 	barbarian_power=0
 	civilization_value=2
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	citizen=
@@ -1055,9 +1055,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="wild_game"
 	freemen=
@@ -1067,8 +1067,8 @@
 	slaves=
 	{
 		amount=1
-		culture="parthian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1077,13 +1077,13 @@
 	tribesmen=
 	{
 		amount=1
-		culture="parthian"
-		religion="zoroaster"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 }
 #Ahur
@@ -1091,9 +1091,9 @@
 {
 	barbarian_power=0
 	civilization_value=4
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="base_metals"
 	citizen=
@@ -1118,9 +1118,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	freemen=
@@ -1141,9 +1141,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fish"
 	freemen=
@@ -1164,9 +1164,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="salt"
 	slaves=
@@ -1183,9 +1183,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="wild_game"
 	slaves=
@@ -1202,9 +1202,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="steppe_horses"
 	slaves=
@@ -1221,9 +1221,9 @@
 {
 	barbarian_power=0
 	civilization_value=1
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="wood"
 	tribesmen=
@@ -1236,9 +1236,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="horses"
 	citizen=
@@ -1263,9 +1263,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	citizen=
@@ -1290,9 +1290,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	freemen=
@@ -1309,9 +1309,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="woad"
 	citizen=
@@ -1336,9 +1336,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="camel"
 	citizen=
@@ -1363,9 +1363,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="sagartian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	citizen=
@@ -1390,9 +1390,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="camel"
 	citizen=
@@ -1402,8 +1402,8 @@
 	freemen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1412,8 +1412,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1425,9 +1425,9 @@
 {
 	barbarian_power=0
 	civilization_value=5
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="steppe_horses"
 	citizen=
@@ -1452,9 +1452,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="woad"
 	citizen=
@@ -1479,9 +1479,9 @@
 {
 	barbarian_power=0
 	civilization_value=5
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	citizen=
@@ -1506,9 +1506,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fur"
 	citizen=
@@ -1529,9 +1529,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="earthware"
 	citizen=
@@ -1541,12 +1541,12 @@
 	freemen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1559,7 +1559,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="zoroaster"
+		religion="slavic_pantheon"
 	}
 }
 #Abivard
@@ -1567,9 +1567,9 @@
 {
 	barbarian_power=0
 	civilization_value=19
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="cattle"
 	citizen=
@@ -1583,7 +1583,7 @@
 	tribesmen=
 	{
 		amount=1
-		religion="indo_iranian_religion"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1595,9 +1595,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="grain"
 	citizen=
@@ -1622,9 +1622,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="camel"
 	freemen=
@@ -1645,9 +1645,9 @@
 {
 	barbarian_power=0
 	civilization_value=5
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	citizen=
@@ -1672,16 +1672,16 @@
 {
 	barbarian_power=0
 	civilization_value=21
-	culture="margian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
 	{
 		amount=1
-		culture="bactrian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	citizen=
 	{
@@ -1690,8 +1690,8 @@
 	freemen=
 	{
 		amount=1
-		culture="bactrian"
-		religion="roman_pantheon"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1707,16 +1707,16 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	freemen=
 	{
 		amount=2
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	slaves=
 	{
@@ -1725,8 +1725,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1738,9 +1738,9 @@
 {
 	barbarian_power=0
 	civilization_value=5
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	tribesmen=
@@ -1753,9 +1753,9 @@
 {
 	barbarian_power=0
 	civilization_value=20.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="grain"
 	citizen=
@@ -1773,14 +1773,14 @@
 	slaves=
 	{
 		amount=2
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1792,9 +1792,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="hemp"
 	citizen=
@@ -1804,8 +1804,8 @@
 	freemen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1818,8 +1818,8 @@
 	tribesmen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1831,9 +1831,9 @@
 {
 	barbarian_power=0
 	civilization_value=16.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="mountain"
 	trade_goods="horses"
 	citizen=
@@ -1843,8 +1843,8 @@
 	freemen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1857,8 +1857,8 @@
 	tribesmen=
 	{
 		amount=2
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 }
 #Dihistan
@@ -1866,9 +1866,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="camel"
 	citizen=
@@ -1878,8 +1878,8 @@
 	freemen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	freemen=
 	{
@@ -1892,14 +1892,14 @@
 	slaves=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
 		amount=1
-		culture="derbiccan"
-		religion="indo_iranian_religion"
+		culture="wvenedi"
+		religion="slavic_pantheon"
 	}
 	tribesmen=
 	{
@@ -1911,9 +1911,9 @@
 {
 	barbarian_power=0
 	civilization_value=2
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="hemp"
 	citizen=
@@ -1938,9 +1938,9 @@
 {
 	barbarian_power=0
 	civilization_value=3
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="desert"
 	trade_goods="fur"
 	citizen=
@@ -1965,9 +1965,9 @@
 {
 	barbarian_power=0
 	civilization_value=5
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="fur"
 	citizen=
@@ -1992,9 +1992,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="dye"
 	freemen=
@@ -2015,9 +2015,9 @@
 {
 	barbarian_power=0
 	civilization_value=6
-	culture="derbiccan"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="indo_iranian_religion"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="cattle"
 	freemen=
@@ -2038,9 +2038,9 @@
 {
 	barbarian_power=0
 	civilization_value=18.5
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="wild_game"
 	freemen=
@@ -2061,9 +2061,9 @@
 {
 	barbarian_power=0
 	civilization_value=31
-	culture="parthian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="plains"
 	trade_goods="precious_metals"
 	freemen=
@@ -2084,9 +2084,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="amardian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="honey"
 	citizen=
@@ -2107,9 +2107,9 @@
 {
 	barbarian_power=0
 	civilization_value=29
-	culture="cadusian"
+	culture="wvenedi"
 	province_rank="settlement"
-	religion="zoroaster"
+	religion="slavic_pantheon"
 	terrain="hills"
 	trade_goods="fish"
 	freemen=
